@@ -1,0 +1,3 @@
+{
+  "connectionString": "mongodb+srv://admin:admin@devcluster1.vv0y9oo.mongodb.net/nasa-api-backend?retryWrites=true&w=majority&appName=devCluster1"
+}
